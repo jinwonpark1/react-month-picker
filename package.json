@@ -1,0 +1,19 @@
+{
+  "name": "react-month-picker",
+  "version": "1.0.0",
+  "description": "Month picker for React. Based on Material-UI ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinwonpark1/react-month-picker.git"
+  },
+  "author": "Jinwon Park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinwonpark1/react-month-picker/issues"
+  },
+  "homepage": "https://github.com/jinwonpark1/react-month-picker#readme"
+}
